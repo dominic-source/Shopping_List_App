@@ -13,7 +13,8 @@
     "react": "17.0.2",
     "react-native": "0.68.2",
     "react-native-vector-icons": "^9.1.0",
-    "uuidv4": "^6.2.13"
+    "util": "^0.12.4",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "@babel/core": "7.17.10",
